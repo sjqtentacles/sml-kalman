@@ -1,0 +1,13 @@
+(* Test executable basis: the kalman library (with vendored sml-matrix) plus the
+   harness, helpers, and per-topic suites. *)
+$(SML_LIB)/basis/basis.mlb
+
+../src/kalman.mlb
+
+harness.sml
+support.sml
+test_filter.sml
+test_tracking.sml
+test_rls.sml
+entry.sml
+main.sml

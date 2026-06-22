@@ -1,0 +1,5 @@
+package github.com/sjqtentacles/sml-kalman
+
+require {
+  github.com/sjqtentacles/sml-matrix
+}

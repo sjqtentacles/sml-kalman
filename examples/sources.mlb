@@ -1,0 +1,6 @@
+(* Example/demo basis: the kalman library plus the vendored sml-matrix. *)
+$(SML_LIB)/basis/basis.mlb
+
+../src/kalman.mlb
+
+demo.sml

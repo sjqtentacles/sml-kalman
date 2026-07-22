@@ -1,5 +1,7 @@
 # sml-kalman
 
+[![CI](https://github.com/sjqtentacles/sml-kalman/actions/workflows/ci.yml/badge.svg)](https://github.com/sjqtentacles/sml-kalman/actions/workflows/ci.yml)
+
 The linear (discrete-time) **Kalman filter** and a **recursive least-squares**
 estimator in pure Standard ML, built on
 [`sml-matrix`](https://github.com/sjqtentacles/sml-matrix) for dense real
